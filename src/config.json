@@ -1,0 +1,196 @@
+{
+    "sorts": [
+      "路由",
+      "模态弹窗",
+      "媒体",
+      "电话",
+      "剪贴板",
+      "系统信息",
+      "数据网络",
+      "数据存储",
+      "网络",
+      "下载",
+      "文件选择",
+      "文件管理",
+      "应用管理",
+      "图片",
+      "webview拓展示例",
+      "upload",
+      "屏幕亮度",
+      "震动",
+      "在线文档",
+      "版本"
+    ],
+    "packages": [
+      {
+        "name": "router",
+        "chnName": "路由",
+        "sort": "0"
+      },
+      {
+        "name": "alert",
+        "chnName": "",
+        "sort": "1"
+      },
+      {
+        "name": "confirm",
+        "chnName": "",
+        "sort": "1"
+      },
+      {
+        "name": "prompt",
+        "chnName": "",
+        "sort": "1"
+      },
+      {
+        "name": "toast",
+        "chnName": "",
+        "sort": "1"
+      },
+      {
+        "name": "gtoast",
+        "chnName": "",
+        "sort": "1"
+      },
+      {
+        "name": "相机",
+        "chnName": "",
+        "sort": "2"
+      },
+      {
+        "name": "录音",
+        "chnName": "",
+        "sort": "2"
+      },
+      {
+        "name": "音频",
+        "chnName": "",
+        "sort": "2"
+      },
+      {
+        "name": "电话",
+        "chnName": "",
+        "sort": "3"
+      },
+      {
+        "name": "剪贴板",
+        "chnName": "",
+        "sort": "4"
+      },
+      {
+        "name": "aboutPhone",
+        "chnName": "",
+        "sort": "5"
+      },
+      {
+        "name": "battery",
+        "chnName": "",
+        "sort": "5"
+      },
+      {
+        "name": "networkInfo",
+        "chnName": "",
+        "sort": "5"
+      },
+      {
+        "name": "数据网络",
+        "chnName": "",
+        "sort": "6"
+      },
+      {
+        "name": "数据存储",
+        "chnName": "",
+        "sort": "7"
+      },
+      {
+        "name": "网络",
+        "chnName": "",
+        "sort": "8"
+      },
+      {
+        "name": "下载",
+        "chnName": "",
+        "sort": "9"
+      },
+      {
+        "name": "文件选择",
+        "chnName": "",
+        "sort": "10"
+      },
+      {
+        "name": "文件管理",
+        "chnName": "",
+        "sort": "11"
+      },
+      {
+        "name": "openUrl",
+        "chnName": "",
+        "sort": "12"
+      },
+      {
+        "name": "openDocument",
+        "chnName": "",
+        "sort": "12"
+      },
+      {
+        "name": "path",
+        "chnName": "",
+        "sort": "12"
+      },
+      {
+        "name": "chooseImage",
+        "chnName": "",
+        "sort": "13"
+      },
+      {
+        "name": "saveImageToPhotosAlbum",
+        "chnName": "",
+        "sort": "13"
+      },
+      {
+        "name": "图片信息",
+        "chnName": "",
+        "sort": "13"
+      },
+      {
+        "name": "webview拓展示例",
+        "chnName": "",
+        "sort": "14"
+      },
+      {
+        "name": "upload",
+        "chnName": "",
+        "sort": "15"
+      },
+      {
+        "name": "查看系统屏幕亮度信息",
+        "chnName": "",
+        "sort": "16"
+      },
+      {
+        "name": "设置屏幕亮度",
+        "chnName": "",
+        "sort": "16"
+      },
+      {
+        "name": "震动",
+        "chnName": "",
+        "sort": "17"
+      },
+      {
+        "name": "在线文档",
+        "chnName": "",
+        "sort": "18"
+      },
+      {
+        "name": "当前os版本: ",
+        "chnName": "",
+        "sort": "19"
+      },
+      {
+        "name": "当前syberh版本: ",
+        "chnName": "",
+        "sort": "19"
+      }
+    ]
+  }
